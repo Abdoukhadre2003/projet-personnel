@@ -1,0 +1,47 @@
+    .PHOTO {
+        color: white;
+                font-size: 4em;
+                        font-style: italic;
+                                text-align: center;
+                                        color:blue;
+                                                 background-image: url(ilya-pavlov-OqtafYT5kTw-unsplash.jpg);
+                                                text-shadow: 6px 6px 0px#16222a #3a6073;
+}
+        p {
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                        font-size: 1em;
+                                justify-content: end;
+                                        text-align: center;
+
+        }
+        .tante {
+                        font-weight: lighter;
+        }
+        body{
+                background-color: white;
+        }
+                .mode {
+                        color: blue;
+                                text-align: center;
+                                        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                                font-size: 1em;
+                }
+  .mode2 {
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                        font-size: 1em;
+                                text-align: center;
+                                        color: blue;
+  }  
+  .link{
+        width: 100px;
+        height: 100px;
+        align-items: center;
+        justify-content: center;
+        }
+        
+  
+       
+
+                        
+                        
+                        
