@@ -1,1 +1,105 @@
-you-style.css
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'popins', sans-serif ;
+
+     
+}
+.global{
+    width: 250px;
+    background-color: aliceblue;
+    padding: 30px;
+}
+.global i{
+    font-size: 22px;
+}
+.you1{
+    display: flex;
+    flex-direction: row;
+    
+    }
+    .you1 i{
+        font-size: 30px;
+        color: red;
+        padding: 5px;
+    }
+    .conteneur1{
+        display: flex;
+        gap: 10px;
+        padding: 10px;
+        
+    }
+    .conteneur2{
+        display: flex;
+        gap: 10px;
+        padding: 10px;
+    }
+    .conteneur3{
+        display: flex;
+        gap: 10px;
+        padding: 10px;
+    }
+    .conteneur4{
+        display: flex;
+        gap: 10px;
+        padding: 10px;
+    }
+    .conteneur5{
+        display: flex;
+        gap: 10px;
+        padding: 10px;
+    }
+    .conteneur6{
+        display: flex;
+        gap: 10px;
+        padding: 10px;
+    }
+    .conteneur7{
+        display: flex;
+        gap: 10px;
+        padding: 10px;
+    }
+    .conteneur8{
+        display: flex;
+        gap: 10px;
+        padding: 10px;
+    }
+    .conteneur9{
+        display: flex;
+        gap: 10px;
+        padding: 12px;
+    }
+    .conteneur10{
+        display: flex;
+        gap: 10px;
+        padding: 12px;
+    }
+    span{
+        font-weight:900;
+    }
+    .spa{
+        display: flex;
+        gap: 10px;
+        padding: 20px;
+    }
+    .cc{
+        width: 22px;
+        height: 22px;
+        padding: 3px;
+        border-radius: 10px;
+        color: white;
+        background-color: rgb(201, 134, 9);
+        
+    }
+    .vv{
+        width: 22px;
+        height: 22px;
+        padding: 3px;
+        color: white;
+        background-color: rgb(33, 157, 192);
+    }
+    hr{
+       margin: 30px;
+    
+}
